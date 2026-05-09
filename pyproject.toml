@@ -48,3 +48,4 @@ include = ["RawRefinery*"]
 
 [project.scripts]
 rawrefinery = "RawRefinery.main:main"
+rawrefinery-cli = "RawRefinery.cli:main"
