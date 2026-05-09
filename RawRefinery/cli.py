@@ -2,6 +2,7 @@ import argparse
 import os
 import glob
 from pathlib import Path
+from tqdm import tqdm
 from RawRefinery.application.cli_controller import CLIController
 
 def main():

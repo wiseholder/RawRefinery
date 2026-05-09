@@ -1,5 +1,6 @@
 import torch
 import numpy as np
+from tqdm import tqdm
 from pathlib import Path
 from platformdirs import user_data_dir
 from time import perf_counter
